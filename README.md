@@ -1,5 +1,5 @@
 - Hi, I’m Bryan Santos, but you can call me Bryan
-- I have a PhD in Applied Microbiology
+- I have a Ph.D. in Applied Microbiology
 - I worked a lot in laboratory performing protein expression and purification experiments
 - Recently, I got interested in the world of programming
 - I would like to learn Python to apply it in the field of Bioinformatics and related
