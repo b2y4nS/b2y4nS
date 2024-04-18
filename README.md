@@ -2,7 +2,7 @@
 - I have a Ph.D. in Applied Microbiology
 - I worked a lot in laboratory performing protein expression and purification experiments
 - Recently, I got interested in the world of programming
-- I would like to learn Python to apply it in the field of Bioinformatics and related
+- I would like to learn more about Computer Science
 - My goal is to grow in this area learning different programming languages and to become, if it's possible, an expert
 
 <!---
